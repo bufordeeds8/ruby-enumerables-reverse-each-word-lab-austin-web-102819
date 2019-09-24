@@ -1,4 +1,4 @@
-# greeting =  "Hello, how are you?"
+greeting =  "Hello, how are you?"
 
 def reverse_each_word(sentence)
 # ary = [];
@@ -8,4 +8,4 @@ reversedStr = reversedSplitStr.join(" ")
 
 end
 
- p reverse_each_word(sentence)
+ p reverse_each_word(greeting)

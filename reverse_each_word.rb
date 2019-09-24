@@ -8,4 +8,4 @@ reversedStr = reversedSplitStr.join(" ")
 
 end
 
- # p reverse_each_word(greeting)
+ p reverse_each_word(sentence)
